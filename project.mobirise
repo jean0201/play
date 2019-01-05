@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": ".html",
+    "currentPage": "play.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1066,7 +1066,7 @@
         }
       ]
     },
-    ".html": {
+    "play.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "宜蘭溫泉旅館",
