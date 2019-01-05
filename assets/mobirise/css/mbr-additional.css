@@ -2219,37 +2219,28 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rbgFGQmKgF {
-  background-image: url("../../../assets/images/background1.jpg");
+.cid-rcXEN5qCYN {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
-.cid-rbgFGQmKgF h1 {
-  color: #616161;
+.cid-rcXEN5qCYN H2 {
+  color: #7f1933;
 }
-.cid-rbgFGQmKgF h2,
-.cid-rbgFGQmKgF h3,
-.cid-rbgFGQmKgF p {
-  color: #767676;
+.cid-rcXEN5qCYN .mbr-section-subtitle B {
+  color: #232323;
 }
-.cid-rbgFGQmKgF .mbr-section-subtitle {
-  font-style: italic;
+.cid-rcXEf0bbwE {
+  background: #ffffff;
 }
-.cid-rbgFGQmKgF I {
-  color: #cc2952;
+.cid-rcXEf0bbwE .video-block {
+  margin: auto;
+  width: 100% !important;
 }
-.cid-rbgFGQmKgF H3 {
-  color: #353471;
-}
-.cid-rbgFGQmKgF P {
-  color: #353471;
-}
-.cid-rbgFGQmKgF SPAN {
-  color: #ff3366;
-}
-.cid-rbgFGQmKgF H1 {
-  color: #149dcc;
-}
-.cid-rbgFGQmKgF B {
-  color: #ff3366;
+@media (max-width: 768px) {
+  .cid-rcXEf0bbwE .video-block {
+    width: 100% !important;
+  }
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -2632,26 +2623,35 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rcXEN5qCYN {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+.cid-rbgFGQmKgF {
+  background-image: url("../../../assets/images/background1.jpg");
 }
-.cid-rcXEN5qCYN H2 {
-  color: #7f1933;
+.cid-rbgFGQmKgF h1 {
+  color: #616161;
 }
-.cid-rcXEN5qCYN .mbr-section-subtitle B {
-  color: #232323;
+.cid-rbgFGQmKgF h2,
+.cid-rbgFGQmKgF h3,
+.cid-rbgFGQmKgF p {
+  color: #767676;
 }
-.cid-rcXEf0bbwE {
-  background: #ffffff;
+.cid-rbgFGQmKgF .mbr-section-subtitle {
+  font-style: italic;
 }
-.cid-rcXEf0bbwE .video-block {
-  margin: auto;
-  width: 100% !important;
+.cid-rbgFGQmKgF I {
+  color: #cc2952;
 }
-@media (max-width: 768px) {
-  .cid-rcXEf0bbwE .video-block {
-    width: 100% !important;
-  }
+.cid-rbgFGQmKgF H3 {
+  color: #353471;
+}
+.cid-rbgFGQmKgF P {
+  color: #353471;
+}
+.cid-rbgFGQmKgF SPAN {
+  color: #ff3366;
+}
+.cid-rbgFGQmKgF H1 {
+  color: #149dcc;
+}
+.cid-rbgFGQmKgF B {
+  color: #ff3366;
 }
